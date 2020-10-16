@@ -1,0 +1,2 @@
+# clasificador-de-imagenes-de-deportes
+En este ejercicio se diseña una red neuronal convolucional (sin Transfer Learning ya que se trata de un notebook didáctico básico) para clasificar imágenes de 10 deportes diferentes. A lo largo del ejercicio se van extrayendo diferentes conclusiones. Puedes emplear este ejercicio para hacer pruebas o con fines formativos, pero por favor, si lo usas, incluye una referencia a este github.
